@@ -16,8 +16,6 @@ if (!defined('AMQP_NOPARAM')) {
     include "stubs/AMQPExchangeException.php";
     include "stubs/AMQPQueue.php";
     include "stubs/AMQPQueueException.php";
-    include "stubs/AMQPQueue.php";
-    include "stubs/AMQPQueueException.php";
     include "stubs/AMQPTimestamp.php";
     include "stubs/AMQPValueException.php";
 
